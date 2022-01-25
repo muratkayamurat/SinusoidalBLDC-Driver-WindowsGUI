@@ -2,7 +2,7 @@
 
 <h2>Require</h2>
 <p>1- İnstall JDK-15.0.2 from the link: </p><br/>
-<a href="https://files02.tchspt.com/temp/jdk-15.0.2_windows-x64_bin.exe">jdk-15.0.2 download</a><br/>
+<a href="https://www.oracle.com/java/technologies/javase/jdk15-archive-downloads.html#license-lightbox">jdk-15.0.2 download</a><br/>
 <p>2- Clone the git repo</p>
 
 <h2>RUN</h2>
